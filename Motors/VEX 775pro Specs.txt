@@ -1,0 +1,19 @@
+Battery In: 12V DC
+
+Outputs: Output Shaft size: 5mm (0.196in)
+
+Free Speed: 18,730 rpm (+/- 10%)
+
+Free Current: 0.7A
+
+Maximum Power: 347 W
+
+Stall Torque: 0.71 N-m (6.28 in-lbs)
+
+Stall Current: 134A
+
+Mounting Holes: (2) M4 tapped holes on a 29mm bolt circle
+
+Size: 1.744” (44.3 mm) diameter, 2.602” (66.10 mm) long
+
+Weight: 0.8 lbs (actual weight one item, no packaging)
